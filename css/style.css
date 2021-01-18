@@ -1,0 +1,17 @@
+body {
+    font-family: 'Lato';
+    background-color: rgb(255, 0, 43);
+    color: aqua;
+}
+a {
+    text-decoration: none;
+    color: #10ddf8c2;
+}
+a:hover {
+    color: #383838;
+}
+.mypic {
+    width: 100px;
+    border-radius: 50%;
+    margin: 20px auto;
+}
